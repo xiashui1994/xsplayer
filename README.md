@@ -1,4 +1,4 @@
-# webapp-scaffold
+# xsPlayer
 
 > A Vue.js project
 
